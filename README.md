@@ -40,7 +40,7 @@ const developer = {
 ```
 🌟 Currently learning: Business Administration
 🎵 Favorite coding playlist: Music from a cold land
-⚡ Fun fact: I also do cosplay
+⚡ Fun fact: I also skate on occasion
 ```
 
 </div>
