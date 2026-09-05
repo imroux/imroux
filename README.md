@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Seiji
+# Hi there 👋 I'm Roux
 
 ## 💫 Quick Intro
 
