@@ -24,15 +24,6 @@ const developer = {
 
 </div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img alt="Roux's GitHub Stats"  height=270 width="400px" src="https://github-readme-stats-zeta-ruby-29.vercel.app/api?username=imroux&theme=algolia&bg_color=1e1e2e&card_width=290px&hide=prs&show_icons=true&hide_rank=true&include_all_commits=true" />
-  <img alt="Roux's Top Languages" height=270 width="400px" src="https://github-readme-stats-zeta-ruby-29.vercel.app/api/top-langs?username=imroux&theme=algolia&bg_color=1e1e2e&card_width=295px&layout=compact" />
-
-</div>
-
 ## 🎮 Fun Stuff
 
 <div align="center">
